@@ -1,6 +1,6 @@
 ### Vladimir Ranski
 
-Beginner front end developer
+Beginner frontend developer
 
 ---
 ### Contact info:
@@ -12,8 +12,8 @@ Beginner front end developer
 
 ---
 ### About me:
-I am 31 years old, I work as a CNC operator.<br>
-I decided to change my life and work as a Front-end developer.<br>
+I work as a CNC operator.<br>
+I decided to change my life and work as a Frontend developer.<br>
 I am constantly learning and discovering new things.<br>
 Very lazy - I do it so as not to redo it.
 
