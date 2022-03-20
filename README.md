@@ -7,7 +7,7 @@ Beginner frontend developer
 **Phone:** +375 29 225-19-23 <br>
 **E-mail**: ranski.vladimir@gamil.com <br>
 **GitHub:** [VladimirRanski](https://github.com/VladimirRanski) <br>
-**Telegram:** [Владимир Ранский](https://t.me/Vovchara_777) <br>
+**Telegram:** [@Vovchara_777](https://t.me/Vovchara_777) <br>
 **LinkedIn** [Владимир Ранский](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-b516a8234/)
 
 ---
@@ -53,7 +53,7 @@ Open to suggestion!
 1. [Веб-верстальщик: начало](https://drive.google.com/file/d/1Ag_zbbWR11ooUy27WvVryudeADfkDULg/view?usp=sharing)
 2. [Javascript: погружение](https://drive.google.com/file/d/1BWfMkli3w4hZXIp_OtN_OaQDSP9kiF32/view?usp=sharing) <br>
 
-[**RS_School**](https://rs.school/)
+[**RS_School:**](https://rs.school/)
 1. [Курс «JavaScript/Front-end»](https://rs.school/js/) - in the learning process...
 
 ---
